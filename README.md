@@ -29,6 +29,10 @@ Usage
     $result = $eq->query($searchString, $domains);
     
 
+Example
+-------
+
+See the example script in 'bin/'.
 
 
 The Perl script
@@ -36,5 +40,5 @@ The Perl script
 
 It's an old script by Kazunori Fujiwara <fujiwara@jprs.co.jp>:
 
-Copyright (c) 2004  Japan Registry Service Co., LTD.
-Copyright (c) 2004  Kazunori Fujiwara
+* Copyright (c) 2004  Japan Registry Service Co., LTD.
+* Copyright (c) 2004  Kazunori Fujiwara
